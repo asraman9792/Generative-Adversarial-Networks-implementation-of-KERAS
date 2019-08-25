@@ -9,6 +9,11 @@ $ cd cyclegan/
 $ bash download_dataset.sh apple2orange
 $ python3 cyclegan.py
 
+<p align="center">
+    <img src="http://eriklindernoren.se/images/cyclegan.png" width="640"\>
+</p>
+
+
 The implementation of the Cycle GAN is for implementing the transformation of Apple to Orange and Orange to Apple.
 
 Image-to-image translation is a class of vision and
@@ -25,6 +30,7 @@ versa).
 
 Paper: https://arxiv.org/abs/1703.10593
 
+
 <p align="center">
-    <img src="http://eriklindernoren.se/images/cyclegan.png" width="640"\>
+    <img src="http://eriklindernoren.se/images/cyclegan_gif.gif" width="640"\>
 </p>
