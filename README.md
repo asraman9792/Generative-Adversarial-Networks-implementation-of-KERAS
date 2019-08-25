@@ -22,3 +22,9 @@ such that the distribution of images from G(X) is indistinguishable from the dis
 Because this mapping is highly under-constrained, we couple it with an inverse mapping F : Y → X and introduce a
 cycle consistency loss to enforce F(G(X)) ≈ X (and vice
 versa). 
+
+Paper: https://arxiv.org/abs/1703.10593
+
+<p align="center">
+    <img src="http://eriklindernoren.se/images/cyclegan.png" width="640"\>
+</p>
